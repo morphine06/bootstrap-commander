@@ -14,7 +14,7 @@ bootstrap-commander is a javascript application framework to build web applicati
 1.  No theory about binding which represents a little part of the application, a simple function to fill the form is enought and easily comprehensible
 1.  A big place for jQuery, but not use the plugins principle... OOP is better
 2.  for now, concentrate about client side... use PHP (if you are maso) or Node.js (if you like preserve planet, econom in ressources) or Rails (if you like slowness)... as you like...
-3.  Use jQuery, Bootstrap, Mustache.js because the simplest and minimalist frameworks... and work well together... with bootstrap-commander.
+3.  Use jQuery, Bootstrap, Mustache.js, require.js because the simplest and minimalist frameworks... and work well together... with bootstrap-commander.
 4.  very small size
 
 ## Demos ##
