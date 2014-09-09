@@ -1,6 +1,6 @@
 # bootstrap-commander #
 
-The worst framework that want to be the best.
+The worst framework that hope to be the best.
 If the weel was not been reinvented, it would have remained in stone.
 
 ## Philosophy ##
